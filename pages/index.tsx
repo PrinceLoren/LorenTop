@@ -26,4 +26,6 @@ import {Layout, withLayout} from '../layout/Layout';
   );
 }
 
+
+
 export default withLayout(Home);
