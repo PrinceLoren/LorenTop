@@ -1,4 +1,4 @@
-export interface ProductCharacterisitc {
+export interface ProductCharacteristic {
 	value: string;
 	name: string;
 }
@@ -22,11 +22,11 @@ export interface ProductModel {
 	credit: number;
 	oldPrice: number;
 	description: string;
-	characterisitc: ProductCharacterisitc[];
+	characteristics: ProductCharacteristic[];
 	createdAt: Date;
 	updatedAt: Date;
 	__v: number;
-	imgae: string;
+	image: string;
 	initialRating: number;
 	reviews: ReviewModel[];
 	reviewCount: number;
