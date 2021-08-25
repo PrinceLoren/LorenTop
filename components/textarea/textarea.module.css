@@ -6,7 +6,6 @@
 	border: none;
 	outline-color: var(--primary);
 	background: var(--white);
-
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
 	border-radius: 5px;
 
@@ -15,8 +14,16 @@
 	font-family: var(--font-family);
 }
 
+.textarea::placeholder {
+	color: var(--gray);
+}
+
 .error {
 	border: 1px solid var(--red);
+}
+
+.textareaWrapper {
+	position: relative;
 }
 
 .errorMessage {
@@ -24,8 +31,4 @@
 	bottom: -15px;
 	left: 0;
 	color: var(--red);
-}
-
-.textAreaWrapper {
-	position: relative;
 }

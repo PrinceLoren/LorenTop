@@ -2,6 +2,10 @@
 	fill: var(--primary);
 }
 
+.star  {
+	display: inline-block;
+}
+
 .star svg {
 	margin-right: 5px;
 }
@@ -10,8 +14,8 @@
 	cursor: pointer;
 }
 
-.error svg {
-	stroke: var(--red);
+.ratingWrapper {
+	position: relative;
 }
 
 .errorMessage {
@@ -21,6 +25,6 @@
 	color: var(--red);
 }
 
-.ratingWrapper {
-	position: relative;
+.error svg {
+	stroke: var(--red);
 }
