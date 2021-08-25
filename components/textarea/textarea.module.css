@@ -1,5 +1,6 @@
 .textarea {
 	padding: 7px 15px;
+	width: 100%;
 
 	color: var(--black);
 	border: none;
@@ -12,4 +13,19 @@
 	font-size: 16px;
 	line-height: 22px;
 	font-family: var(--font-family);
+}
+
+.error {
+	border: 1px solid var(--red);
+}
+
+.errorMessage {
+	position: absolute;
+	bottom: -15px;
+	left: 0;
+	color: var(--red);
+}
+
+.textAreaWrapper {
+	position: relative;
 }
