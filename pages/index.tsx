@@ -14,8 +14,8 @@ function Home({ menu }: HomeProps): JSX.Element {
 
 	return (
 		<>
-			<Htag tag='h1'>Заголовок</Htag>
-			<Button appearance='primary' arrow='right'>Кнопка</Button>
+			<Htag tag='h1'>Lorem Top</Htag>
+			{/* <Button appearance='primary' arrow='right'>Кнопка</Button>
 			<Button appearance='ghost' arrow='down'>Кнопка</Button>
 			<P size='l'>Большой</P>
 			<P>Средний</P>
@@ -26,7 +26,7 @@ function Home({ menu }: HomeProps): JSX.Element {
 			<Tag color='primary'>Green</Tag>
 			<Rating rating={rating} isEditable setRating={setRating} />
 			<Input placeholder='Test'/>
-			<Textarea placeholder='test' />
+			<Textarea placeholder='test' /> */}
 		</>
 	);
 }
