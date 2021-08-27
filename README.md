@@ -8,4 +8,4 @@ npm install
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![menu](https://github.com/{PrinceLoren}/{LorenTop}/raw/{main}/{page-components}/menu.png)
+![menu](https://daniilk.eu/menu.png)
