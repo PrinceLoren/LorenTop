@@ -10,13 +10,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Menu
 
-![menu](https://daniilk.eu/menu.png)
+![Menu](https://daniilk.eu/menu.png)
 
 ## Product
 
-![menu](https://daniilk.eu/product.png)
+![Product](https://daniilk.eu/product.png)
 
 ## Lighthouse
 
-![menu](https://daniilk.eu/lighthouse.png)
+![Lighthouse](https://daniilk.eu/lighthouse.png)
 
